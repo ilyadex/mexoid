@@ -1,0 +1,3 @@
+active Administrator mode
+ localplayer = human = eye.visibly.player [on])
+end)
