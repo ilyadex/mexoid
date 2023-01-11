@@ -1,0 +1,7 @@
+Role.Administrator = (
+
+ Password = JustAadminpanel2023
+ SwitchOff.files.Settings = 
+  AntiCheat.file.options.enabled?.off
+
+)
