@@ -1,0 +1,12 @@
+rename.file == (
+ name.1 = gfhjKL.dll
+ name.2 = dktjkk.dll
+ name.3 = rhgjfb.dll
+ name.4 = guhgfs.dll
+end
+)
+
+Explorer.PlayerSettings.AntiCheat.dll = (function.Event = (Disable/Turnon = (off)))
+MoveFile.folder.mexoid.LocalScriptOffAnticheat.dll.in.copyin.tab1
+tab1 = LocalsScriptsPlayers.Folder.Players.Pastefile
+end
