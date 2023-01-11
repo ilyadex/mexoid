@@ -1,0 +1,12 @@
+Frame = Frame.game.create == 215 = 500 (
+create = Button.Name.fly.fly.txt
+create = Button.Name.Noclip.Noclip.txt
+create = Button.Name.god.god.txt
+create = Button.Name.Give all Guns.give all guns.txt
+create = Button.Name.Tracers.tracers.txt )
+
+Frame = Frame game.create == 500 = 500
+create = TextLabel.infile.read me pls.txt
+
+
+end
