@@ -1,2 +1,7 @@
 administrator code = aDeIeop215Jfh
 efiles.folder.human = accept txt file
+
+
+function = (Button = Insert)
+open = menu.dll
+end
